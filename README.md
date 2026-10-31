@@ -106,6 +106,7 @@ https://www.w3schools.com/css/css3_mediaqueries.asp
 https://www.w3schools.com/css/css_link.asp
 https://www.w3schools.com/css/css_link_buttons.asp
 https://www.w3schools.com/html/html_buttons.asp
+
 GeeksforGeeks, 2026. HTML defer Atrribute. [Online] 
 Available at: https://www.geeksforgeeks.org/html/html-defer-attribute/
 [Accessed 04 October 2026].

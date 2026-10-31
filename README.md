@@ -69,27 +69,27 @@ Week 4: Submission
 I added a logo;navigation menu;form and website content as well added pictures on my website that are relevant.
 On PART2 I started off by creating a CSS stylesheet for the website pages,I then went on to add a CSS Reset for consistent pacing and sizing. I added the CareerBridge SA colour scheme as stated in the proposal which was using purple,dark purple,lavender purple,white and gold. I styled the website header,and navigation menu. I added the psuedo-classes hover,focus and active on the navigation menus. I added button to my index page as well as the expo page html code and styled them on the stylesheet and added hovers to them. I added media queries as my responsive CSS for tablet,laptop and a mobile device. I also added responsive navigation styling as well as image layouts. I styled the Home page sections and career expo sections,I went on to style the About Us page,Career categories section. I also styled the Career Expo page and Universities page,as well as the enquiry form and the search form. I added styling for the website footer across all the pages,I also added hover effects to the buttons and links.
 ## Changelog PART3
-•	Added responsive design for mobile, tablet and laptop screen sizes.
-•	Added meta descriptions and keywords to website pages.
-•	Added university search and filtering functionality using JavaScript.
-•	Added career search and sorting functionality using JavaScript.
-•	Added Lightbox functionality for website images.
-•	Added JavaScript-generated copyright year and last modified date.
-•	Added university cards and career information sections.
-•	Added form controls for university searches.
-•	Added comments to JavaScript code for clarity.
-•	Added a welcome message button to the About page.
-•	Added show and hide functionality for the Mission and Vision sections.
-•	Added a button to display and hide Career Expo event information.
-•	Added a Back to Top button on the home page for easier navigation.
-•	Added a registration message when users click the Register Now link.
-•	Updated the registration link to allow users to navigate to the Career Expo page after viewing the message.
-•	Added JavaScript functionality to display the current year and last modified date in the footer.
-•	Added social media icons using JavaScript.
-•	Included interactive Google Maps on the Contact page.
-•	Updated responsive CSS media queries for mobile and tablet screens.
-•	Adjusted navigation, image galleries and content spacing for different screen sizes.
-•	Maintained consistent styling across the website.
+Added responsive design for mobile, tablet and laptop screen sizes.
+Added meta descriptions and keywords to website pages.
+Added university search and filtering functionality using JavaScript.
+Added career search and sorting functionality using JavaScript.
+Added Lightbox functionality for website images.
+Added JavaScript-generated copyright year and last modified date.
+Added university cards and career information sections.
+Added form controls for university searches.
+Added comments to JavaScript code for clarity.
+Added a welcome message button to the About page.
+Added show and hide functionality for the Mission and Vision sections.
+Added a button to display and hide Career Expo event information.
+Added a Back to Top button on the home page for easier navigation.
+Added a registration message when users click the Register Now link.
+Updated the registration link to allow users to navigate to the Career Expo page after viewing the message.
+Added JavaScript functionality to display the current year and last modified date in the footer.
+Added social media icons using JavaScript.
+Included interactive Google Maps on the Contact page.
+Updated responsive CSS media queries for mobile and tablet screens.
+Adjusted navigation, image galleries and content spacing for different screen sizes.
+Maintained consistent styling across the website.
 
 ## References
 Basu, P., 2024. 21 Examples of Website Objectives & Goals to Set for Your Business. [Online] 
